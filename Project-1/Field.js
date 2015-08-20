@@ -1,4 +1,4 @@
-
+/* Second Push */
 function clientPageInit(type) {
 	
 	//set default value to the custom filed
